@@ -1,5 +1,7 @@
 # 🦁 CAN Kit-Finder (Computer Vision)
 
+I would like to thank my instructor, Mr. Mohamed Mehdi Atamna, for his support. His OpenCV lab sessions were essential in helping me grasp the challenges of Computer Vision, a subject I was introduced to this year.
+
 ### 📝 Description
 An intelligent tool designed for the Africa Cup of Nations (CAN) 2025. This application uses **Computer Vision** to identify official football kits based on federation logos.
 
